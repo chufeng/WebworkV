@@ -39,13 +39,12 @@ export default defineValaxyConfig<UserThemeConfig>({
     ],
 
     footer: {
-      since: 2016,
-      beian: {
-        enable: true,
-        icp: '萌ICP备17038157号',
-      },
+      since: 2023,
+      powered: false,
     },
   },
 
   unocss: { safelist },
+  
+  
 })

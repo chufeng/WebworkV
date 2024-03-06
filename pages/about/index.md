@@ -2,14 +2,13 @@
 title: 关于我楚风
 ---
 
-I am developing [Valaxy](https://github.com/YunYouJun/valaxy) - Next Generation Static Blog Framework.
+I am developing [猫耳FM]
 
-If you like it, you can sponsor me in [GitHub](https://github.com/sponsors/YunYouJun) or [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn).
+If you like it, you can sponsor me in [GitHub](https://github.com/chufeng) 
 
 ---
 
-我正在开发 [Valaxy](https://github.com/YunYouJun/valaxy) - 下一代静态博客框架。
+我正在开发 [Missevan]
 
-如果你喜欢它，你可以在 [GitHub](https://github.com/sponsors/YunYouJun) 或 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn) 赞助我。
+如果你喜欢它，你可以在 [GitHub](https://github.com/chufeng) 
 
-Check out the [Valaxy | GitHub](https://github.com/YunYouJun/valaxy) for more details.

@@ -1,7 +1,8 @@
 ---
 title: 关于站点
 ---
+## 站点信息
+个人博客
 
-Valaxy + valaxy-theme-yun Demo Site
-
-- Default Theme: [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy-theme-yun/)
+## 联系方式
+QQ：492818574 
