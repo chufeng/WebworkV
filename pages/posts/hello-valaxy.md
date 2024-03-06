@@ -1,20 +1,29 @@
 ---
-title: Hello, Valaxy!
-date: 2022-04-01
-updated: 2022-04-01
-categories: Valaxy 笔记
+title: Hello, 新的个人主页!
+date: 2023-03-06
+updated: 2022-03-06
+categories: 笔记
 tags:
   - valaxy
   - 笔记
 top: 1
 ---
 
-## Valaxy
+很久没想写点什么了，现在觉得写点东西挺好的，于是就建了一个新的个人主页，用来记录一些笔记。
 
-Next Generation Static Blog Framework.
+<!-- more -->
 
-Write your first post!
+## 为什么选择Valaxy
 
-## Usage
+之前用过一下Hexo，想找一个比较简洁的主题，于是就找到了Valaxy。而且顺便温习一下前端只是，只是没想到搭建好之后，还挺复杂的（笑） ，还需要一阵子才能搞清楚应该怎么修改一些细节。
 
-Modify `valaxy.config.ts` to custom your blog.
+Valaxy是一个基于Vue3的静态博客框架，使用Vue3的Composition API来编写，并且使用Vite来构建，所以它的性能非常棒。
+
+## 之前的文章
+我决定将之前的文章都搬运到这里，这样我就可以在这里记录我的学习笔记了。
+
+## 学习Valaxy
+Valaxy的文档有点让我这种客户端的人摸不着头脑，有种看了之后说“啊？”的冲动，HTML 呢？JS 呢？CSS 呢？
+
+所以，我决定先学习一下Vue3，然后再学习Valaxy。
+然后我还要找一个专门存 markdown 的 IDE

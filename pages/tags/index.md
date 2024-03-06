@@ -5,4 +5,4 @@ icon: i-ri-price-tag-3-line
 nav: false
 # comment: false
 ---
-现在只有几个标签了，以后再慢慢加吧。
+<a href="https://icp.gov.moe/?keyword=20246351" target="_blank">萌ICP备20246351号</a>
