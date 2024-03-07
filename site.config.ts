@@ -7,7 +7,8 @@ export default defineSiteConfig({
   author: {
     name: '楚风',
   },
-  description: 'Valaxy Theme Yun Preview.',
+  description: '每个人都需要一个段子手.',
+  subtitle: '每个人都是段子手.(每个人都需要复读机）',
   social: [
     // {
     //   name: 'RSS',
@@ -98,5 +99,8 @@ export default defineSiteConfig({
       //   icon: 'i-ri-wechat-pay-line',
       // },
     ],
+  },
+  frontmatter: {
+    time_warning: false,
   },
 })
