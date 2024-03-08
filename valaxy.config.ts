@@ -39,10 +39,10 @@ export default defineValaxyConfig<UserThemeConfig>({
     ],
 
     footer: {
-      beian: {
-        enable: true,
-        icp: '萌ICP备20246351号',
-      },
+      // beian: {
+      //   enable: true,
+      //   icp: '萌ICP备20246351号',
+      // },
       since: 2023,
       powered: false,
     },
