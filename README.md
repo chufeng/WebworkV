@@ -24,7 +24,7 @@ English & Chinese Docs is coming!
 
 > Wait a minute.
 
-### Docker
+### Docker 
 
 ```bash
 docker build . -t your-valaxy-blog-name:latest
