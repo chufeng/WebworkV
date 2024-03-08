@@ -5,7 +5,6 @@ import type { UserThemeConfig } from 'valaxy-theme-yun'
 const safelist = [
   'i-ri-home-line',
 ]
-
 /**
  * User Config
  */
