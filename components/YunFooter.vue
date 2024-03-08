@@ -1,11 +1,12 @@
 <script lang="ts" setup>
 import { useScriptTag } from '@vueuse/core'
 import YunFooter from 'valaxy-theme-yun/components/YunFooter.vue'
+import { SpeedInsights } from '@vercel/speed-insights/vue';
 
 useScriptTag('//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js')
 </script>
-
 <template>
+    <SpeedInsights />
   <YunFooter>
     <!-- 自定义页脚内容 -->
     <a href="https://icp.gov.moe/?keyword=20246351" target="_blank">萌ICP备20246351号</a>

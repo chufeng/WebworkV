@@ -12,6 +12,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@vercel/speed-insights": "^1.0.10",
     "valaxy": "^0.18.5",
     "valaxy-theme-yun": "^0.18.5"
   },
