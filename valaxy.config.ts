@@ -14,6 +14,11 @@ export default defineValaxyConfig<UserThemeConfig>({
   theme: 'yun',
 
   themeConfig: {
+    // bg_image: {
+    //   enable: true,
+    //   url: 'https://s2.loli.net/2024/03/11/H9eFCwY6Ud8QPqR.png',
+    //   opacity: 0.3,
+    // },
     banner: {
       enable: true,
       title: '楚风的小站',
