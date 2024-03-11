@@ -1,7 +1,7 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://chufenglizan.vercel.app/',
+  url: 'https://chufenglizan.site/',
   lang: 'zh-CN',
   title: '楚风',
   author: {
