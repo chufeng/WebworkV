@@ -83,7 +83,7 @@ export default defineSiteConfig({
         en: 100
       }
     }
-  }
+  },
   // sponsor: {
   //   enable: true,
   //   title: '我很可爱，请给我钱！',
