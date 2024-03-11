@@ -73,13 +73,21 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: false,
-  },
-
-  sponsor: {
     enable: true,
-    title: '我很可爱，请给我钱！',
-    methods: [
+  },
+  statistics: {
+    enable:true,
+    readTime: {
+      speed: {
+        cn: 300,
+        en: 100
+      }
+    }
+  }
+  // sponsor: {
+  //   enable: true,
+  //   title: '我很可爱，请给我钱！',
+  //   methods: [
       // {
       //   name: '支付宝',
       //   url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
@@ -98,8 +106,8 @@ export default defineSiteConfig({
       //   color: '#2DC100',
       //   icon: 'i-ri-wechat-pay-line',
       // },
-    ],
-  },
+  //   ],
+  // },
   frontmatter: {
     time_warning: false,
   },
