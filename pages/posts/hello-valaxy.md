@@ -25,4 +25,4 @@ Valaxy是一个基于Vue3的静态博客框架，使用Vue3的Composition API来
 Valaxy的文档有点让我这种客户端的人摸不着头脑，有种看了之后说“啊？”的冲动，HTML 呢？JS 呢？CSS 呢？
 
 所以，我决定先学习一下Vue3，然后再学习Valaxy。
-然后我还要找一个专门存 markdown 的 IDE
+然后我还要找一个专门存 markdown 的 IDE.
