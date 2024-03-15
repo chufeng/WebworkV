@@ -6,6 +6,8 @@ export default defineSiteConfig({
   title: '楚风',
   author: {
     name: '楚风',
+    avatar: './avatar.png',
+    email: 'wlkongxiangtang@foxmail.com',
   },
   description: '每个人都需要一个段子手.',
   subtitle: '每个人都是段子手.(每个人都需要复读机）',
