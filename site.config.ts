@@ -84,7 +84,12 @@ export default defineSiteConfig({
       }
     }
   },
-  
+  favicon: './logo.png',
+  feed: {
+    name: 'chufeng',
+    favicon: './logo.png',
+
+  },
   sponsor: {
     enable: true,
     title: '我很可爱，请给我钱！',
