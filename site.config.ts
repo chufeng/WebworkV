@@ -91,7 +91,7 @@ export default defineSiteConfig({
     methods: [
       {
         name: '微信支付',
-        url: 'https://s2.loli.net/2024/03/15/OIoD21jGkSlMfqZ.jpg',
+        url: 'https://s2.loli.net/2024/03/15/VldNvu4JcOZk51T.jpg',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
