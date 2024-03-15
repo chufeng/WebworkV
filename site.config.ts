@@ -88,6 +88,7 @@ export default defineSiteConfig({
   sponsor: {
     enable: true,
     title: '我很可爱，请给我钱！',
+    description: '看官如果觉得文章可以，可以打赏哦',
     methods: [
       {
         name: '微信支付',
