@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>楚风</title>
+        <link>https://chufenglizan.site/</link>
+        <description>每个人都需要一个段子手.</description>
+        <lastBuildDate>Sun, 17 Mar 2024 14:38:48 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>楚风</title>
+            <url>https://s2.loli.net/2024/03/15/VcBxSNUX4enRCrJ.png</url>
+            <link>https://chufenglizan.site/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 楚风</copyright>
+        <atom:link href="https://chufenglizan.site/chufeng.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, 新的个人主页!]]></title>
+            <link>https://chufenglizan.site/posts/hello-valaxy</link>
+            <guid>https://chufenglizan.site/posts/hello-valaxy</guid>
+            <pubDate>Sun, 17 Mar 2024 14:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p>很久没想写点什么了，现在觉得写点东西挺好的，于是就建了一个新的个人主页，用来记录一些笔记。</p>
+]]></content:encoded>
+            <author>wlkongxiangtang@foxmail.com (楚风)</author>
+        </item>
+        <item>
+            <title><![CDATA[对于四位生物的畅想]]></title>
+            <link>https://chufenglizan.site/posts/novel/N1</link>
+            <guid>https://chufenglizan.site/posts/novel/N1</guid>
+            <pubDate>Sun, 17 Mar 2024 14:38:22 GMT</pubDate>
+            <description><![CDATA[小说]]></description>
+            <content:encoded><![CDATA[<p>之前想象的高维生物就是跟三体里一样，可以从高维全面透析三维的世界的一切，就像我们能看到纸里的一切，并且可以进行三维和四维之间的转换。</p>
+]]></content:encoded>
+            <author>wlkongxiangtang@foxmail.com (楚风)</author>
+        </item>
+        <item>
+            <title><![CDATA[推荐使用多邻国]]></title>
+            <link>https://chufenglizan.site/posts/study/S1</link>
+            <guid>https://chufenglizan.site/posts/study/S1</guid>
+            <pubDate>Sun, 17 Mar 2024 14:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>多邻国 (Duolingo)</strong> 是一款免费的语言学习应用，旨在帮助用户以一种有趣和有效的方式学习新语言。它采用了游戏化学习的方式，将学习过程分解成一个个小任务</p>
+]]></content:encoded>
+            <author>wlkongxiangtang@foxmail.com (楚风)</author>
+        </item>
+        <item>
+            <title><![CDATA[Hello, 个人博客!]]></title>
+            <link>https://chufenglizan.site/posts/2233</link>
+            <guid>https://chufenglizan.site/posts/2233</guid>
+            <pubDate>Sun, 17 Mar 2024 14:38:22 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Hello, 个人博客!<br>
+之前就想做个人博客了，现在才决定弄一个。</p>
+]]></content:encoded>
+            <author>wlkongxiangtang@foxmail.com (楚风)</author>
+        </item>
+        <item>
+            <title><![CDATA[测试测试]]></title>
+            <link>https://chufenglizan.site/posts/N1/n1</link>
+            <guid>https://chufenglizan.site/posts/N1/n1</guid>
+            <pubDate>Sun, 17 Mar 2024 14:38:22 GMT</pubDate>
+            <description><![CDATA[测试测试]]></description>
+            <content:encoded><![CDATA[<h2>在markdown 插入图片</h2>
+<p><img src="./%E6%9E%AB%E7%B3%96%E7%A4%BElogo.jpg" alt="枫糖社logo"></p>
+<h2>插入swift helloworld代码</h2>
+<pre><code class="language-swift">print(&quot;hello world&quot;</code></pre>
+]]></content:encoded>
+            <author>wlkongxiangtang@foxmail.com (楚风)</author>
+        </item>
+        <item>
+            <title><![CDATA[Valaxy 一些笔记]]></title>
+            <link>https://chufenglizan.site/posts/Develop/D1</link>
+            <guid>https://chufenglizan.site/posts/Develop/D1</guid>
+            <pubDate>Tue, 12 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>之前不知道前端如何搭建部署，一直使用WordPress，但是WordPress的SEO并不好，所以就想着自己搭建一个个人博客，然后就找到了Valaxy这个框架。</p>
+]]></content:encoded>
+            <author>wlkongxiangtang@foxmail.com (楚风)</author>
+        </item>
+        <item>
+            <title><![CDATA[2024年4月新番追番记录]]></title>
+            <link>https://chufenglizan.site/posts/anmime/1</link>
+            <guid>https://chufenglizan.site/posts/anmime/1</guid>
+            <pubDate>Fri, 08 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>每年1月份的时候新番总是疲软，但是到了4月份就会强势起来。在此记录下准备要看的新番</p>
+<ol>
+<li>碧蓝档案</li>
+<li>鬼灭之刃</li>
+<li>偶像大闪耀色彩</li>
+<li>狼与香辛料</li>
+<li>夜晚的水母不会游泳 （一听名字就很文艺，肯定是高艺术群像了）</li>
+</ol>
+]]></content:encoded>
+            <author>wlkongxiangtang@foxmail.com (楚风)</author>
+        </item>
+    </channel>
+</rss>

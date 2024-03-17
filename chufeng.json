@@ -1,0 +1,100 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "楚风",
+    "home_page_url": "https://chufenglizan.site/",
+    "feed_url": "https://chufenglizan.site/chufeng.json",
+    "description": "每个人都需要一个段子手.",
+    "icon": "https://s2.loli.net/2024/03/15/VcBxSNUX4enRCrJ.png",
+    "author": {
+        "name": "楚风",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>很久没想写点什么了，现在觉得写点东西挺好的，于是就建了一个新的个人主页，用来记录一些笔记。</p>\n",
+            "url": "https://chufenglizan.site/posts/hello-valaxy",
+            "title": "Hello, 新的个人主页!",
+            "date_modified": "2024-03-06T00:00:00.000Z",
+            "date_published": "2024-03-17T14:38:22.270Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>之前想象的高维生物就是跟三体里一样，可以从高维全面透析三维的世界的一切，就像我们能看到纸里的一切，并且可以进行三维和四维之间的转换。</p>\n",
+            "url": "https://chufenglizan.site/posts/novel/N1",
+            "title": "对于四位生物的畅想",
+            "summary": "小说",
+            "date_modified": "2024-03-11T00:00:00.000Z",
+            "date_published": "2024-03-17T14:38:22.270Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p><strong>多邻国 (Duolingo)</strong> 是一款免费的语言学习应用，旨在帮助用户以一种有趣和有效的方式学习新语言。它采用了游戏化学习的方式，将学习过程分解成一个个小任务</p>\n",
+            "url": "https://chufenglizan.site/posts/study/S1",
+            "title": "推荐使用多邻国",
+            "date_modified": "2024-03-15T00:00:00.000Z",
+            "date_published": "2024-03-17T14:38:22.270Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>Hello, 个人博客!<br>\n之前就想做个人博客了，现在才决定弄一个。</p>\n",
+            "url": "https://chufenglizan.site/posts/2233",
+            "title": "Hello, 个人博客!",
+            "date_modified": "2023-12-30T00:00:00.000Z",
+            "date_published": "2024-03-17T14:38:22.266Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>在markdown 插入图片</h2>\n<p><img src=\"./%E6%9E%AB%E7%B3%96%E7%A4%BElogo.jpg\" alt=\"枫糖社logo\"></p>\n<h2>插入swift helloworld代码</h2>\n<pre><code class=\"language-swift\">print(&quot;hello world&quot;</code></pre>\n",
+            "url": "https://chufenglizan.site/posts/N1/n1",
+            "title": "测试测试",
+            "summary": "测试测试",
+            "date_modified": "2024-01-04T12:38:02.000Z",
+            "date_published": "2024-03-17T14:38:22.266Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>之前不知道前端如何搭建部署，一直使用WordPress，但是WordPress的SEO并不好，所以就想着自己搭建一个个人博客，然后就找到了Valaxy这个框架。</p>\n",
+            "url": "https://chufenglizan.site/posts/Develop/D1",
+            "title": "Valaxy 一些笔记",
+            "date_modified": "2024-03-12T00:00:00.000Z",
+            "date_published": "2024-03-12T00:00:00.000Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>每年1月份的时候新番总是疲软，但是到了4月份就会强势起来。在此记录下准备要看的新番</p>\n<ol>\n<li>碧蓝档案</li>\n<li>鬼灭之刃</li>\n<li>偶像大闪耀色彩</li>\n<li>狼与香辛料</li>\n<li>夜晚的水母不会游泳 （一听名字就很文艺，肯定是高艺术群像了）</li>\n</ol>\n",
+            "url": "https://chufenglizan.site/posts/anmime/1",
+            "title": "2024年4月新番追番记录",
+            "date_modified": "2024-03-08T00:00:00.000Z",
+            "date_published": "2024-03-08T00:00:00.000Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
