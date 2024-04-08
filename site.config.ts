@@ -28,7 +28,7 @@ export default defineSiteConfig({
     //   name: 'GitHub',
     //   link: 'https://github.com/YunYouJun',
     //   icon: 'i-ri-github-line',
-    //   color: '#6e5494',
+    //   color: '#6e5474',
     // },
     // {
     //   name: '微博',
