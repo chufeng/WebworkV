@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts/study/S4.md",
+                "file": "pages/posts/study/S5.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,11 @@
             "id": "987596c51ea1a424",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/posts/study/S5.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "gemini-chat-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,14 +151,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "987596c51ea1a424",
+  "active": "91661de34c1fd3bd",
   "lastOpenFiles": [
-    "pages/posts/study/S3.md",
     "pages/posts/study/S4.md",
     "pages/posts/study/S5.md",
+    "pages/posts/study/S3.md",
     "pages/posts/study/S1.md",
     "pages/links/index.md",
     "pages/about/index.md",
