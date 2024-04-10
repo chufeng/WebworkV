@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts/study/S1.md",
+                "file": "pages/posts/study/S4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "987596c51ea1a424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/posts/study/S5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/posts/study/S1.md",
+                "file": "pages/posts/study/S5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/posts/study/S1.md",
+                "file": "pages/posts/study/S5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/posts/study/S1.md"
+                "file": "pages/posts/study/S5.md"
               }
             }
           }
@@ -146,9 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "91661de34c1fd3bd",
+  "active": "987596c51ea1a424",
   "lastOpenFiles": [
+    "pages/posts/study/S3.md",
     "pages/posts/study/S4.md",
+    "pages/posts/study/S5.md",
+    "pages/posts/study/S1.md",
     "pages/links/index.md",
     "pages/about/index.md",
     "pages/posts/study/S2.md",
