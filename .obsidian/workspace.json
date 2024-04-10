@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f4fbdb1f9c3264d",
+        "id": "06028227f7868c35",
         "type": "tabs",
         "children": [
           {
-            "id": "91661de34c1fd3bd",
+            "id": "1e519b5c52c8d3c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "987596c51ea1a424",
-            "type": "leaf",
-            "state": {
-              "type": "gemini-chat-view",
-              "state": {}
             }
           }
         ]
@@ -155,10 +147,10 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "91661de34c1fd3bd",
+  "active": "1e519b5c52c8d3c5",
   "lastOpenFiles": [
-    "pages/posts/2233.md",
     "pages/posts/life/L1.md",
+    "pages/posts/2233.md",
     "pages/posts/study/S5.md",
     "pages/posts/life",
     "pages/posts/study/S4.md",
