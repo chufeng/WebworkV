@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "472e8a7b7f831240",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4fbdb1f9c3264d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91661de34c1fd3bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/posts/study/S1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48dd818004059f8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "579c74f6a4895178",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54bb5e7448126174",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38e927aea1d6ff12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7dbe0cb2ae054f0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddf348e405c6cea8",
+    "type": "split",
+    "children": [
+      {
+        "id": "25e2f6a25fb047cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db6162525172a5f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/posts/study/S1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3c67926d36a9f23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/posts/study/S1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e1f42e1f5c4e6a4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a057663dbc17315",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/posts/study/S1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "91661de34c1fd3bd",
+  "lastOpenFiles": [
+    "pages/posts/study/S4.md",
+    "pages/links/index.md",
+    "pages/about/index.md",
+    "pages/posts/study/S2.md",
+    "pages/posts/Develop/D2.md"
+  ]
+}
