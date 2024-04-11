@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts/novel/N1.md",
+                "file": "pages/posts/study/S2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/posts/novel/N1.md",
+                "file": "pages/posts/study/S2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/posts/novel/N1.md",
+                "file": "pages/posts/study/S2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/posts/novel/N1.md"
+                "file": "pages/posts/study/S2.md"
               }
             }
           }
@@ -162,21 +162,21 @@
   },
   "active": "9a5c22b166cb1250",
   "lastOpenFiles": [
-    "pages/posts/hello-valaxy.md",
+    "pages/posts/study/S3.md",
+    "pages/posts/study/S5.md",
+    "pages/posts/study/S4.md",
+    "pages/posts/study/S2.md",
+    "pages/posts/study/S1.md",
     "pages/posts/novel/N1.md",
+    "pages/posts/hello-valaxy.md",
     "未命名.md",
     "pages/posts/N1/n1.md",
     "pages/posts/N1/枫糖社logo.jpg",
     "pages/posts/life/L1.md",
     "pages/posts/2233.md",
-    "pages/posts/study/S5.md",
     "pages/posts/life",
-    "pages/posts/study/S4.md",
-    "pages/posts/study/S3.md",
-    "pages/posts/study/S1.md",
     "pages/links/index.md",
     "pages/about/index.md",
-    "pages/posts/study/S2.md",
     "pages/posts/Develop/D2.md"
   ]
 }
