@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/posts/life/L1.md",
+                "file": "pages/posts/novel/N1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/posts/life/L1.md",
+                "file": "pages/posts/novel/N1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/posts/life/L1.md"
+                "file": "pages/posts/novel/N1.md"
               }
             }
           }
@@ -160,8 +159,9 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "9a5c22b166cb1250",
+  "active": "d3e7985013bd4ba0",
   "lastOpenFiles": [
+    "pages/posts/life/L1.md",
     "pages/posts/Develop/D2.md",
     "pages/posts/Develop/D1.md",
     "pages/posts/study/S2.md",
@@ -174,7 +174,6 @@
     "未命名.md",
     "pages/posts/N1/n1.md",
     "pages/posts/N1/枫糖社logo.jpg",
-    "pages/posts/life/L1.md",
     "pages/posts/2233.md",
     "pages/posts/life",
     "pages/links/index.md",
