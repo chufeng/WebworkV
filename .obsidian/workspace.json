@@ -13,9 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts/novel/N2.md",
+                "file": "pages/posts/novel/N3.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "9ee95ec7322fa121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -43,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/posts/novel/N2.md",
+                "file": "pages/posts/novel/N3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/posts/novel/N2.md",
+                "file": "pages/posts/novel/N3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/posts/novel/N2.md"
+                "file": "pages/posts/novel/N3.md"
               }
             }
           }
@@ -172,11 +183,12 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "57b73ca2587c779f",
+  "active": "d3e7985013bd4ba0",
   "lastOpenFiles": [
-    "N3.md",
     "pages/posts/novel/N2.md",
     "pages/posts/novel/N1.md",
+    "pages/posts/novel/N3.md",
+    "未命名 1.md",
     "pages/posts/life/L1.md",
     "pages/posts/Develop/D2.md",
     "pages/posts/Develop/D1.md",
