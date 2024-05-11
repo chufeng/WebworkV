@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts/novel/N3.md",
+                "file": "pages/posts/novel/N2.md",
                 "mode": "source",
                 "source": true
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/posts/novel/N3.md",
+                "file": "pages/posts/novel/N2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/posts/novel/N3.md",
+                "file": "pages/posts/novel/N2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/posts/novel/N3.md"
+                "file": "pages/posts/novel/N2.md"
               }
             }
           }
@@ -185,8 +185,9 @@
   },
   "active": "d3e7985013bd4ba0",
   "lastOpenFiles": [
-    "pages/posts/novel/N2.md",
+    "pages/posts/study/S1.md",
     "pages/posts/novel/N3.md",
+    "pages/posts/novel/N2.md",
     "pages/posts/novel/N1.md",
     "未命名 1.md",
     "pages/posts/life/L1.md",
@@ -196,7 +197,6 @@
     "pages/posts/study/S3.md",
     "pages/posts/study/S5.md",
     "pages/posts/study/S4.md",
-    "pages/posts/study/S1.md",
     "pages/posts/hello-valaxy.md",
     "未命名.md",
     "pages/posts/N1/n1.md",
