@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts/novel/N2.md",
+                "file": "pages/posts/novel/N3.md",
                 "mode": "source",
                 "source": true
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +184,7 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "d3e7985013bd4ba0",
+  "active": "57b73ca2587c779f",
   "lastOpenFiles": [
     "pages/posts/novel/N3.md",
     "pages/posts/novel/N2.md",
