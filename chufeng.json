@@ -1,0 +1,197 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "楚风",
+    "home_page_url": "https://chufenglizan.site/",
+    "feed_url": "https://chufenglizan.site/chufeng.json",
+    "description": "每个人都需要一个段子手.",
+    "icon": "https://s2.loli.net/2024/03/15/VcBxSNUX4enRCrJ.png",
+    "author": {
+        "name": "楚风",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p><strong>多邻国 (Duolingo)</strong> 是一款免费的语言学习应用，旨在帮助用户以一种有趣和有效的方式学习新语言。它采用了游戏化学习的方式，将学习过程分解成一个个小任务</p>\n",
+            "url": "https://chufenglizan.site/posts/study/S1",
+            "title": "推荐使用多邻国",
+            "date_modified": "2024-03-15T00:00:00.000Z",
+            "date_published": "2024-06-05T09:03:51.812Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>我在现在的个人博客网站里的二级域名加入了AIChat。网址是：</p>\n<p><a href=\"https://ai.chufenglizan.site\">https://ai.chufenglizan.site</a><br>\n现在你可以直</p>\n",
+            "url": "https://chufenglizan.site/posts/study/S2",
+            "title": "现已加入AI",
+            "date_modified": "2024-03-18T00:00:00.000Z",
+            "date_published": "2024-06-05T09:03:51.812Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>最近又要修改直播间的连麦了，连麦的 sdk 有 4 哥，混杂在一起，有时候测试，排列组合就要测很多次。一口气要测一个下午才能弄清楚。</p>\n<p>连麦的 sdk 还得分为两个部分，一个是主播的 sdk，一个是观</p>\n",
+            "url": "https://chufenglizan.site/posts/study/S3",
+            "title": "连麦还是比较复杂的",
+            "date_modified": "2024-03-22T00:00:00.000Z",
+            "date_published": "2024-06-05T09:03:51.812Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>上一次玩 quest2 都是 2023年1月份了<br>\n现在又开始玩，结果发现节奏光剑又打不开了，只能更新系统，从v42直接更新到v62，更新了两年半的大版本，真实大巨变啊，不仅 ui 变了， 很多触碰功</p>\n",
+            "url": "https://chufenglizan.site/posts/study/S4",
+            "title": "历时1年没碰的 Quest2 大更新",
+            "date_modified": "2024-03-27T00:00:00.000Z",
+            "date_published": "2024-06-05T09:03:51.812Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>每次</p>\n",
+            "url": "https://chufenglizan.site/posts/study/S5",
+            "title": "xcode总有些坑",
+            "date_modified": "2024-06-05T09:03:51.812Z",
+            "date_published": "2024-06-05T09:03:51.812Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>很久没想写点什么了，现在觉得写点东西挺好的，于是就建了一个新的个人主页，用来记录一些笔记。</p>\n",
+            "url": "https://chufenglizan.site/posts/hello-valaxy",
+            "title": "Hello, 新的个人主页!",
+            "date_modified": "2024-03-06T00:00:00.000Z",
+            "date_published": "2024-06-05T09:03:51.808Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>很久没看电影了，这次看了<br>\n《你想活出怎样的生活》</p>\n",
+            "url": "https://chufenglizan.site/posts/life/L1",
+            "title": "电影",
+            "date_modified": "2024-06-05T09:03:51.808Z",
+            "date_published": "2024-06-05T09:03:51.808Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>之前想象的高维生物就是跟三体里一样，可以从高维全面透析三维的世界的一切，就像我们能看到纸里的一切，并且可以进行三维和四维之间的转换。</p>\n",
+            "url": "https://chufenglizan.site/posts/novel/N1",
+            "title": "对于四位生物的畅想",
+            "summary": "小说",
+            "date_modified": "2024-03-11T00:00:00.000Z",
+            "date_published": "2024-06-05T09:03:51.808Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>在二战的欧洲的战区，每时每刻都要提防炮火侵袭，在残根断壁的废墟旁边，有个小女孩蹲在废墟旁边，可能她的家人还在废墟中，她是唯一逃出来的人，她只能无助的蹲在旁边，默默守护这个已经坍塌的小房子，小女孩目光呆</p>\n",
+            "url": "https://chufenglizan.site/posts/novel/N2",
+            "title": "俾斯麦（第一段）",
+            "summary": "小说",
+            "date_modified": "2024-04-22T00:00:00.000Z",
+            "date_published": "2024-06-05T09:03:51.808Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>院长似乎察觉到了小女孩的情绪波动，轻轻按在她的肩头安慰道：&quot;别担心，这里虽然条件很差，但是我们仍然尽最大努力让孩子们过上幸福快乐的生活。你也一样可以拥有属于自己的那份幸福。&quot;<br>\n小女孩点了点头，努力控制</p>\n",
+            "url": "https://chufenglizan.site/posts/novel/N3",
+            "title": "俾斯麦（第二段）",
+            "summary": "小说",
+            "date_modified": "2024-04-29T00:00:00.000Z",
+            "date_published": "2024-06-05T09:03:51.808Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>Hello, 个人博客!<br>\n之前就想做个人博客了，现在才决定弄一个。</p>\n",
+            "url": "https://chufenglizan.site/posts/2233",
+            "title": "Hello, 个人博客!",
+            "date_modified": "2023-12-30T00:00:00.000Z",
+            "date_published": "2024-06-05T09:03:51.804Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "",
+            "url": "https://chufenglizan.site/posts/Develop/D2",
+            "date_modified": "2024-06-05T09:03:51.804Z",
+            "date_published": "2024-06-05T09:03:51.804Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h2>在markdown 插入图片</h2>\n<p><img src=\"./%E6%9E%AB%E7%B3%96%E7%A4%BElogo.jpg\" alt=\"枫糖社logo\"></p>\n<h2>插入swift helloworld代码</h2>\n<pre><code class=\"language-swift\">print(&quot;hello world&quot;</code></pre>\n",
+            "url": "https://chufenglizan.site/posts/N1/n1",
+            "title": "测试测试",
+            "summary": "测试测试",
+            "date_modified": "2024-01-04T12:38:02.000Z",
+            "date_published": "2024-06-05T09:03:51.804Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>之前不知道前端如何搭建部署，一直使用WordPress，但是WordPress的SEO并不好，所以就想着自己搭建一个个人博客，然后就找到了Valaxy这个框架。</p>\n",
+            "url": "https://chufenglizan.site/posts/Develop/D1",
+            "title": "Valaxy 一些笔记",
+            "date_modified": "2024-03-12T00:00:00.000Z",
+            "date_published": "2024-03-12T00:00:00.000Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>每年1月份的时候新番总是疲软，但是到了4月份就会强势起来。在此记录下准备要看的新番</p>\n<ol>\n<li>碧蓝档案</li>\n<li>鬼灭之刃</li>\n<li>偶像大闪耀色彩</li>\n<li>狼与香辛料</li>\n<li>夜晚的水母不会游泳 （一听名字就很文艺，肯定是高艺术群像了）</li>\n</ol>\n",
+            "url": "https://chufenglizan.site/posts/anmime/1",
+            "title": "2024年4月新番追番记录",
+            "date_modified": "2024-03-08T00:00:00.000Z",
+            "date_published": "2024-03-08T00:00:00.000Z",
+            "author": {
+                "name": "楚风",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
