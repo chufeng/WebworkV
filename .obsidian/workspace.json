@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts/study/S3.md",
+                "file": "pages/posts/novel/N2.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/posts/study/S3.md",
+                "file": "pages/posts/novel/N2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/posts/study/S3.md",
+                "file": "pages/posts/novel/N2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/posts/study/S3.md"
+                "file": "pages/posts/novel/N2.md"
               }
             }
           }
@@ -198,6 +198,7 @@
   },
   "active": "85397c6f17c00d93",
   "lastOpenFiles": [
+    "pages/posts/study/S3.md",
     "pages/posts/novel/N2.md",
     "pages/posts/novel/N1.md",
     "pages/posts/study/238407DCDD0E3B8AFE74A34CCDFE37A0.jpg",
@@ -211,7 +212,6 @@
     "pages/posts/Develop/D2.md",
     "pages/posts/Develop/D1.md",
     "pages/posts/study/S2.md",
-    "pages/posts/study/S3.md",
     "pages/posts/study/S5.md",
     "pages/posts/study/S4.md",
     "pages/posts/hello-valaxy.md",
