@@ -64,6 +64,18 @@
             }
           },
           {
+            "id": "f81835a5738032b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "a0d4be9a94ad9c1e",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +119,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -230,7 +243,7 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "85397c6f17c00d93",
+  "active": "f81835a5738032b6",
   "lastOpenFiles": [
     "pages/posts/study/S3.md",
     "pages/posts/novel/N2.md",
