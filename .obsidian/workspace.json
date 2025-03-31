@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts/study/S2.md",
+                "file": "pages/posts/novel/N2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S2"
+              "title": "N2"
             }
           },
           {
@@ -247,6 +247,7 @@
   },
   "active": "f81835a5738032b6",
   "lastOpenFiles": [
+    "pages/posts/study/S2.md",
     "pages/posts/novel/N3.md",
     "pages/posts/novel/N1.md",
     "pages/posts/novel/N2.md",
@@ -260,7 +261,6 @@
     "pages/posts/life/L1.md",
     "pages/posts/Develop/D2.md",
     "pages/posts/Develop/D1.md",
-    "pages/posts/study/S2.md",
     "pages/posts/study/S5.md",
     "pages/posts/study/S4.md",
     "pages/posts/hello-valaxy.md",
