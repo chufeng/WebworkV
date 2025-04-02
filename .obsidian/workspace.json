@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/posts/novel/N5.md",
+                "file": "pages/posts/novel/N2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "N5"
+              "title": "N2"
             }
           },
           {
@@ -275,8 +275,8 @@
   },
   "active": "bf9d471377fafb68",
   "lastOpenFiles": [
-    "pages/posts/novel/N4.md",
     "pages/posts/novel/N5.md",
+    "pages/posts/novel/N4.md",
     "pages/posts/novel/N3.md",
     "pages/posts/N1/n1.md",
     "pages/posts/novel/N1.md",
