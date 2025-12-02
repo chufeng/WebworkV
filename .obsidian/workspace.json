@@ -109,12 +109,14 @@
             "id": "662cd7290d30af67",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "pages/posts/novel/N2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "N2"
             }
           },
           {
@@ -287,9 +289,9 @@
   },
   "active": "662cd7290d30af67",
   "lastOpenFiles": [
-    "pages/posts/novel/N5.md",
-    "pages/posts/novel/N4.md",
     "pages/posts/novel/N3.md",
+    "pages/posts/novel/N4.md",
+    "pages/posts/novel/N5.md",
     "pages/posts/N1/n1.md",
     "pages/posts/novel/N1.md",
     "pages/posts/novel/N2.md",
