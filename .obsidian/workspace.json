@@ -106,6 +106,18 @@
             }
           },
           {
+            "id": "662cd7290d30af67",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "a0d4be9a94ad9c1e",
             "type": "leaf",
             "state": {
@@ -130,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -273,7 +285,7 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "bf9d471377fafb68",
+  "active": "662cd7290d30af67",
   "lastOpenFiles": [
     "pages/posts/novel/N5.md",
     "pages/posts/novel/N4.md",
