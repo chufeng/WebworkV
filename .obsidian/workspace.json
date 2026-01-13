@@ -120,6 +120,18 @@
             }
           },
           {
+            "id": "464c3678d4d412ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.6"
+            }
+          },
+          {
             "id": "a0d4be9a94ad9c1e",
             "type": "leaf",
             "state": {
@@ -144,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -278,6 +290,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -287,7 +300,7 @@
       "gemini-assistant:New Gemini chat": false
     }
   },
-  "active": "662cd7290d30af67",
+  "active": "464c3678d4d412ab",
   "lastOpenFiles": [
     "pages/posts/novel/N3.md",
     "pages/posts/novel/N4.md",
